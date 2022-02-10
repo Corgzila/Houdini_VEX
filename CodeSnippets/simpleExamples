@@ -1,3 +1,4 @@
+```C
 /*
 multi-line comments can be typed
 using this syntax
@@ -30,3 +31,4 @@ v@P.y += up;
 
 v@myVec = 1.456;
 v@myVec += v@N.y;
+```
